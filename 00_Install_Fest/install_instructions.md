@@ -6,19 +6,28 @@ BACK-END WEB DEVELOPMENT
 
 #Install Git and Ruby
 
+
+
 ##Mac Users
+
+
+###Install Iterm
+	*	[iterm](https://www.iterm2.com/)
 
 Commands that look like ```this``` should be entered into your Terminal
 application. It can be found in Applications/Utilities.
 
-1.      __Make sure you have an apple ID__ (you should already have one).
+1. * 	__Make sure you have an apple ID__ (you should already have one).
+
 2.      __Install Command Line Tools__
 	*	[https://developer.apple.com/downloads/index.action](https://developer.apple.com/downloads/index.action)
 	* Search for "Command Line Tools" and select the version appropriate for your operating system.
 	* Install the command line tools from the downloaded file.
+
 3.      __Install Homebrew__
 	* ```ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"```
 	* The install page if you have trouble: [http://mxcl.github.io/homebrew/](http://mxcl.github.io/homebrew/)
+
 4.	__Install git__
 	*	```brew install git```
 
@@ -31,7 +40,9 @@ application. It can be found in Applications/Utilities.
 
 7.	__Restart Your Terminal__
 
-8.	__Make sure the latest versions of RVM and Ruby were installed__
+
+
+8.	_Make sure the latest versions of RVM and Ruby were installed__
 	*	run the commands below:
 		*	For RVM
 			*	```rvm -v```
@@ -39,7 +50,7 @@ application. It can be found in Applications/Utilities.
 		* 	For Ruby
 
 			*	```ruby -v```
-				You should get ruby 2.1.0 or higher.
+				You should get ruby 2.2.1 or higher.
 
 
 9. __Install bundler
@@ -49,16 +60,18 @@ application. It can be found in Applications/Utilities.
 
 10. __Install rails
   * run the commands below:
-    * ```gem install rails 4.2.1 ```
+    * ```gem install rails 4.2.3 ``` OR ```gem install rails ```
 
-11a. __Install Atom Text Editor__
- 	*https://atom.io/*
 
-11. __Sublime Link for Command Line Functionality (works for Sublime 3)
-    * ```sudo ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/bin/subl ```
 
-11. __Sublime Link for Command Line Functionality (works for Sublime 3)
-		* ```sudo ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/bin/subl ```
+11.__Install Text Editor__
+	
+	*	[Atom by github](https://atom.io/)
+	
+	
+* Sublime Link for Command Line Functionality (works for Sublime 3 ONLY)
+*     * ```sudo ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/bin/subl ```
+
 
 ##Ubuntu Linux Users
 
