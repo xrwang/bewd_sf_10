@@ -11,66 +11,69 @@ BACK-END WEB DEVELOPMENT
 ##Mac Users
 
 
-###Install Iterm
-	*	[iterm](https://www.iterm2.com/)
-
 Commands that look like ```this``` should be entered into your Terminal
 application. It can be found in Applications/Utilities.
 
+###Terminal
+
+0. * __Install Iterm__
+		*  [iTerm2](https://www.iterm2.com/)
+
+###Main Installation 
+
 1. * 	__Make sure you have an apple ID__ (you should already have one).
 
-2.      __Install Command Line Tools__
-	*	[https://developer.apple.com/downloads/index.action](https://developer.apple.com/downloads/index.action)
-	* Search for "Command Line Tools" and select the version appropriate for your operating system.
-	* Install the command line tools from the downloaded file.
+2. * __Install Command Line Tools__
+		*	[https://developer.apple.com/downloads/index.action](https://developer.apple.com/downloads/index.action)
+		* Search for "Command Line Tools" and select the version appropriate for your operating system.
+		* Install the command line tools from the downloaded file.
 
-3.      __Install Homebrew__
-	* ```ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"```
-	* The install page if you have trouble: [http://mxcl.github.io/homebrew/](http://mxcl.github.io/homebrew/)
+3. * __Install Homebrew__
+		* ```ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"```
+		* The install page if you have trouble: [http://mxcl.github.io/homebrew/](http://mxcl.github.io/homebrew/)
 
-4.	__Install git__
-	*	```brew install git```
+4. * __Install git__
+		* ```brew install git```
 
-5.	__Configure git with your Name and Email__
-  	* [https://help.github.com/articles/setting-your-email-in-git](https://help.github.com/articles/setting-your-email-in-git)
-  	* [https://help.github.com/articles/setting-your-username-in-git](https://help.github.com/articles/setting-your-username-in-git)
+5.	*	__Configure git with your Name and Email__
+  		* [https://help.github.com/articles/setting-your-email-in-git](https://help.github.com/articles/setting-your-email-in-git)
+  		* [https://help.github.com/articles/setting-your-username-in-git](https://help.github.com/articles/setting-your-username-in-git)
 
-6.	__Install RVM with Ruby 2.2.1__
-  	* ```\curl -L https://get.rvm.io | bash -s stable --ruby```
+6. * __Install RVM with Ruby 2.2.1__
+  		* ```\curl -L https://get.rvm.io | bash -s stable --ruby```
 
-7.	__Restart Your Terminal__
+7.	* __Restart Your Terminal__
 
 
 
-8.	_Make sure the latest versions of RVM and Ruby were installed__
-	*	run the commands below:
-		*	For RVM
-			*	```rvm -v```
+8.	* __Make sure the latest versions of RVM and Ruby were installed__
+		*	run the commands below:
+			*	For RVM
+				*	```rvm -v```
 				You should get rvm 1.26.0 or higher.
-		* 	For Ruby
+			* 	For Ruby
 
-			*	```ruby -v```
-				You should get ruby 2.2.1 or higher.
-
-
-9. __Install bundler
-  * run the commands below:
-    * ```gem install bundler ```
+				*	```ruby -v```
+					You should get ruby 2.2.1 or higher.
 
 
-10. __Install rails
-  * run the commands below:
-    * ```gem install rails 4.2.3 ``` OR ```gem install rails ```
+9. * __Install bundler__
+  		* run the commands below:
+    		* ```gem install bundler ```
+
+
+10. * __Install rails__
+  		* run the commands below:
+    		* ```gem install rails 4.2.3 ``` OR ```gem install rails ```
 
 
 
-11.__Install Text Editor__
+11. * __Install The ATOM Text Editor__
 	
-	*	[Atom by github](https://atom.io/)
-	
-	
-* Sublime Link for Command Line Functionality (works for Sublime 3 ONLY)
-*     * ```sudo ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/bin/subl ```
+		*	[Atom by github](https://atom.io/)
+		
+		*	For Sublime 3 users you may have to run this to get you command line functionality working 
+			* ```sudo ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/bin/subl ```
 
 
 ##Ubuntu Linux Users
