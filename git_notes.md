@@ -12,11 +12,11 @@ BACK-END WEB DEVELOPMENT
 
 
 - Clone the `forked` version of our repo
-	- `git clone https://github.com/[your_git_name]/bewd_sf_10`
+	- `git clone https://github.com/[your_git_name]/bewd_sf_10.git`
 	
 
 - Add the remote parent repo 
-	- `git remote add upstream https://github.com/ga-students/bewd_sf_10`
+	- `git remote add upstream https://github.com/ga-students/bewd_sf_10.git`
 
 - Confirm that your forked remote version & the `upstream` remote version are connected to your local repo
 	-  `git remote --verbose `
