@@ -16,8 +16,8 @@ application. It can be found in Applications/Utilities.
 
 ###Terminal
 
-0. * __Install Iterm__
-		*  [iTerm2](https://www.iterm2.com/)
+0. *  __Install Iterm__
+		* [iTerm2](https://www.iterm2.com/)
 
 ###Main Installation 
 
