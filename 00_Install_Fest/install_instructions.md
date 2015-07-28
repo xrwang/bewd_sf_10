@@ -6,10 +6,7 @@ BACK-END WEB DEVELOPMENT
 
 #Install Git and Ruby
 
-
-
 ##Mac Users
-
 
 Commands that look like ```this``` should be entered into your Terminal
 application. It can be found in Applications/Utilities.
@@ -19,7 +16,7 @@ application. It can be found in Applications/Utilities.
 0. *  __Install Iterm__
 		* [iTerm2](https://www.iterm2.com/)
 
-###Main Installation 
+###Main Installation
 
 1. * 	__Make sure you have an apple ID__ (you should already have one).
 
@@ -49,8 +46,9 @@ application. It can be found in Applications/Utilities.
 8.	* __Make sure the latest versions of RVM and Ruby were installed__
 		*	run the commands below:
 			*	For RVM
-				*	```rvm -v```
-				You should get rvm 1.26.0 or higher.
+				*	```rvm -v``` You should get rvm 1.26.0 or higher.
+				* If your see `PATH is not properly set up,` run `rvm reset`
+
 			* 	For Ruby
 
 				*	```ruby -v```
@@ -69,10 +67,10 @@ application. It can be found in Applications/Utilities.
 
 
 11. * __Install The ATOM Text Editor__
-	
+
 		*	[Atom by github](https://atom.io/)
-		
-		*	For Sublime 3 users you may have to run this to get you command line functionality working 
+
+		*	For Sublime 3 users you may have to run this to get you command line functionality working
 			* ```sudo ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/bin/subl ```
 
 
