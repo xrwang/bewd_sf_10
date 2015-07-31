@@ -8,6 +8,6 @@ Note: these are optional resources and **not** homework, but are helpful and rel
 
 | Resource | Class Topic |
 | -------- | ----------- |
-| https://www.codeschool.com/courses/try-git <br/>http://bloggytoons.com/posts/2013/10/10/git-kitchen-wchef-ramsay | 01_Intro / Git |
+| [Code School Try Git](https://www.codeschool.com/courses/try-git) <br/>[Git Kitchen with Chef Ramsey](http://bloggytoons.com/posts/2013/10/10/git-kitchen-wchef-ramsay) | 01_Intro / Git |
 |          | - |
 |          | - |
