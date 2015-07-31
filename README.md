@@ -1,6 +1,9 @@
 #Back End Web Development - Cohort 10 
 
-##Bonus Resources
+At the beginning of class, pull the latest changes from this repo from your `bewd_sf_10` directory in terminal.
+
+###Bonus Resources
+-------
 Note: these are optional resources and **not** homework, but are helpful and relevant if you wish to learn more. Peruse them at your leisure.
 
 | Resource | Class Topic |
