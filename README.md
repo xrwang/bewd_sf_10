@@ -4,10 +4,10 @@ At the beginning of class, pull the latest changes from this repo down to your `
 
 The remotes  (`git remote -v` to check) to this repository should look like this:   
  
-    origin	https://github.com/YOUR_GITHUB_USERNAME/bewd_sf_10.git (fetch)    
-    origin	https://github.com/YOUR_GITHUB_USERNAME/bewd_sf_10.git (push)    
-    upstream	https://github.com/ga-students/bewd_sf_10.git (fetch)    
-    upstream	https://github.com/ga-students/bewd_sf_10.git (push)
+    origin	https://github.com/YOUR_GITHUB_USERNAME/bewd_sf_10 (fetch)    
+    origin	https://github.com/YOUR_GITHUB_USERNAME/bewd_sf_10 (push)    
+    upstream	https://github.com/ga-students/bewd_sf_10 (fetch)    
+    upstream	https://github.com/ga-students/bewd_sf_10 (push)
 
 The origin and upstream remote names are nicknames for your Github repository urls so you can easily push and pull.    
  
